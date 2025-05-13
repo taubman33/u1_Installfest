@@ -1,6 +1,6 @@
 
 # Unit 1 Installations
- HEllo I am editing this!
+ Hello I am editing this!
 ## SEIR 0911EC
 
 
